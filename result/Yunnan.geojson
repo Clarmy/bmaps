@@ -5,7 +5,7 @@
     "NAME": "Yunnan"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

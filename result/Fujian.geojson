@@ -5,7 +5,7 @@
     "NAME": "Fujian"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

@@ -5,7 +5,7 @@
     "NAME": "Anhui"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

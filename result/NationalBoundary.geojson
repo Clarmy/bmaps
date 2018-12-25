@@ -5,7 +5,7 @@
     "NAME": "NationalBoundary"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

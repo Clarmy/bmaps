@@ -5,7 +5,7 @@
     "NAME": "Qinghai"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

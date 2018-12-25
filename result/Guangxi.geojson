@@ -5,7 +5,7 @@
     "NAME": "Guangxi"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

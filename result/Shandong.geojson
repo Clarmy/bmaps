@@ -5,7 +5,7 @@
     "NAME": "Shandong"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

@@ -5,7 +5,7 @@
     "NAME": "Liaoning"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

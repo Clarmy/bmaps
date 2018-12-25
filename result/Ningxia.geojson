@@ -5,7 +5,7 @@
     "NAME": "Ningxia"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

@@ -5,7 +5,7 @@
     "NAME": "Jiangsu"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

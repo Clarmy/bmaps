@@ -5,7 +5,7 @@
     "NAME": "Tianjin"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

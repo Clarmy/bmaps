@@ -5,7 +5,7 @@
     "NAME": "Jilin"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

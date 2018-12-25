@@ -5,7 +5,7 @@
     "NAME": "Xinjiang"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

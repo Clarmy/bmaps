@@ -5,7 +5,7 @@
     "NAME": "Shanxi"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

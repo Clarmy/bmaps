@@ -5,7 +5,7 @@
     "NAME": "Hainan"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

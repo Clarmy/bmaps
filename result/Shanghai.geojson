@@ -5,7 +5,7 @@
     "NAME": "Shanghai"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [

@@ -5,7 +5,7 @@
     "NAME": "Hebei"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "MultiPolygon",
     "coordinates": [
       [
         [
