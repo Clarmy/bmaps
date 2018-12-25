@@ -6,7 +6,7 @@
   },
   "geometry": {
     "type": "MultiPolygon",
-    "coordinates": [
+    "coordinates": [[
       [
         [
           117.49600219726562,
@@ -1225,6 +1225,6 @@
           40.66533660888672
         ]
       ]
-    ]
+    ]]
   }
 }
